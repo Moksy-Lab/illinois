@@ -1,0 +1,23 @@
+/*****hasis*****/ 
+/* #hasis(e2d79a3ca0c8814a) #css starts  */
+.headere2d79a3ca0c8814a .head{ 
+    color: #EF490D
+}
+.headere2d79a3ca0c8814a .button{
+    background-color: #EF490D;
+    color: white;
+    box-shadow: none;
+    border-radius: 25px;
+    padding: 8px 25px;
+}
+.headere2d79a3ca0c8814a .navbar-light .navbar-nav .active>.nav-link{
+    color: rgba(0,0,0,.5)
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #EF490D
+}
+.headere2d79a3ca0c8814a .navbar-light .navbar-nav .active>.nav-link:hover{
+    color: #EF490D
+}
+/* #hasis(e2d79a3ca0c8814a) #css ends  */
+/*****hasis*****/
