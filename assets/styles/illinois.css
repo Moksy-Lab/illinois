@@ -136,7 +136,11 @@
 
 /*****cjaime*****/
     /* #cjaime(calltoactioncahjtby06rt) #css starts  */
-    .calltoactioncahjtby06rt .btn-secondary{
+    .calltoactioncahjtby06rt h2{
+    font-weight: bold;
+    color: #0C2E60
+    }
+        .calltoactioncahjtby06rt .btn-secondary{
         border: #EF490D;
         background-color: #EF490D;
         color: white;
@@ -150,3 +154,13 @@
     }
     /* #cjaime(calltoactioncahjtby06rt) #css ends  */
 /*****cjaime*****/
+
+/*****teddy*****/
+    /* #teddy(testimonialprz03sp248l) #css starts  */
+    .testimonialprz03sp248l h1{
+        font-size: 32px;
+        font-weight: bold;
+        color: #0C2E60;
+    }
+    /* #teddy(testimonialprz03sp248l) #css ends  */
+/*****teddy*****/
