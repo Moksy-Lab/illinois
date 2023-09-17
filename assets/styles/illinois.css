@@ -182,7 +182,8 @@
         padding: 8px 25px;
         font-weight: bold
      }
-     .christinaco40p743dw4 .btn-primary:hover{
+     .christinaco40p743dw4 .btn-primary:hover,
+     .christinaco40p743dw4 .btn-primary:active{
         border: #EF490D;
         background-color: #EF490D
      }
