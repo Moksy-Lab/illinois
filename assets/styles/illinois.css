@@ -25,8 +25,8 @@
 /*****adolf*****/
 /* #adolf(p3dce575962b3c369) #css starts  */
 .aboutp3dce575962b3c369 .jumbotron{
-    background-color: #fff;
-    border-radius: 0px
+    background-color: #e9ecef;
+    border-radius: 20px
 }
 .aboutp3dce575962b3c369 .badge{
     margin-left: -5px;
@@ -45,7 +45,6 @@
         font-size: 18px
     }
     
-
     .aboutp3dce575962b3c369 .searchBtn{
     background-color: #EF490D;
     color: white;
@@ -56,3 +55,43 @@
     }
 /* #adolf(p3dce575962b3c369) #css ends  */
 /*****adolf*****/
+
+/*****freya*****/
+/* #freya(freyategxpfzk1ni) #css starts */
+
+      .freyategxpfzk1ni .fdb-block .fdb-touch {
+      border-top: solid 0.3125rem #EF490D
+     }
+
+     .freyategxpfzk1ni .fdb-block h2 {
+        font-size: 20px;
+        font-weight: bold
+     }
+/* #freya(freyategxpfzk1ni) #css starts */
+/*****freya*****/
+
+/*****agun*****/
+/* #agun(e50d5193e4b9f737) #css starts  */
+.aboute50d5193e4b9f737 h2{
+    color: #0C2E60;
+    font-size: 32px;
+    font-weight: 600
+}
+
+.aboute50d5193e4b9f737 li {
+    background-image: url(https://i.ibb.co/VBw575Y/ok-1976099-640.png);
+    color: #0C2E60
+}
+    .aboute50d5193e4b9f737 .margin{
+    margin-left: -45px
+}
+.aboute50d5193e4b9f737 .searchBtn{
+    background-color: #EF490D;
+    color: white;
+    box-shadow: none;
+    border-radius: 25px;
+    padding: 8px 25px;
+    font-weight: bold
+    }
+/* #agun(e50d5193e4b9f737) #css ends  */
+/*****agun*****/
