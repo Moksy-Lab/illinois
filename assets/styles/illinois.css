@@ -164,3 +164,43 @@
     }
     /* #teddy(testimonialprz03sp248l) #css ends  */
 /*****teddy*****/
+
+/*****christina*****/
+    /* #christina(christinaco40p743dw4) #css starts  */
+    .christinaco40p743dw4 h1{
+        font-size: 32px
+     }
+     .christinaco40p743dw4 .lead{
+        font-size: 20px
+     }
+     .christinaco40p743dw4 .btn-primary{
+        border: #EF490D;
+        background-color: #EF490D;
+        color: white;
+        box-shadow: none;
+        border-radius: 25px;
+        padding: 8px 25px;
+        font-weight: bold
+     }
+     .christinaco40p743dw4 .btn-primary:hover{
+        border: #EF490D;
+        background-color: #EF490D
+     }
+
+    /* #christina(christinaco40p743dw4) #css ends  */
+/*****christina*****/
+
+/*****fond*****/
+    /* #fond(fondt37qz6qr2q) #css starts */
+    .fondt37qz6qr2q .text-center{
+        font-weight: bold;
+        color: #0C2E60
+       }
+       .fondt37qz6qr2q .fab{
+        color: #FF663B
+    }
+    .fondt37qz6qr2q .fab:hover{
+        color: #FF663B
+    }
+    /* #fond(fondt37qz6qr2q) #css ends */
+/*****fond*****/
