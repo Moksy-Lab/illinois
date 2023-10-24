@@ -25,14 +25,10 @@
 /*****adolf*****/
 /* #adolf(p3dce575962b3c369) #css starts  */
 .aboutp3dce575962b3c369 .jumbotron{
-    background-color: #e9ecef;
-    border-radius: 20px
+    background-color: #fff
 }
 .aboutp3dce575962b3c369 .badge{
-    margin-left: -5px;
-    font-size: 20px;
-    color: #FF663B;
-    background-color: #fff
+    display: none
 }
 
 .aboutp3dce575962b3c369 .DescriptionHeading {
@@ -42,7 +38,7 @@
 
 .aboutp3dce575962b3c369 .DescriptionPara {
         color: #0C2E60;
-        font-size: 18px
+        font-size: 20px
     }
     
     .aboutp3dce575962b3c369 .searchBtn{
@@ -58,7 +54,9 @@
 
 /*****freya*****/
 /* #freya(freyategxpfzk1ni) #css starts */
-
+.freyategxpfzk1ni .fdb-block {
+    padding: 5rem 0
+}
       .freyategxpfzk1ni .fdb-block .fdb-touch {
       border-top: solid 0.3125rem #EF490D
      }
@@ -99,7 +97,7 @@
 /*****cade*****/
  /* #cade(af598102c9dad94e) #css starts  */
  .counteraf598102c9dad94e{
-    padding: 7.5rem 0
+    padding: 5.5rem 0
  }
  .counteraf598102c9dad94e h2{
     font-size:32px;
@@ -115,6 +113,9 @@
 
 /*****fila*****/
 /* #fila(filafe9c6aurswl) #css starts */
+.filafe9c6aurswl .fdb-block {
+    padding: 5.5rem 0
+}
 .filafe9c6aurswl h1{
     color: #0C2E60;
     font-size: 32px;
@@ -136,6 +137,9 @@
 
 /*****cjaime*****/
     /* #cjaime(calltoactioncahjtby06rt) #css starts  */
+    .calltoactioncahjtby06rt .fdb-block {
+        padding: 5.5rem 0
+    }
     .calltoactioncahjtby06rt h2{
     font-weight: bold;
     color: #0C2E60
@@ -167,6 +171,9 @@
 
 /*****christina*****/
     /* #christina(christinaco40p743dw4) #css starts  */
+    .christinaco40p743dw4 .fdb-block {
+        padding: 5.5rem 0
+    }
     .christinaco40p743dw4 h1{
         font-size: 32px
      }
