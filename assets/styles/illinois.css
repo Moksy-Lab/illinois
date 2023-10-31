@@ -153,6 +153,11 @@
         padding: 8px 25px;
         font-weight: bold
     }
+    .calltoactioncahjtby06rt .btn-secondary:not(:disabled):not(.disabled):active{
+        border: #EF490D;
+        background-color: #EF490D;
+        color: white;
+    }
     .calltoactioncahjtby06rt .lead {
         font-size: 20px
     }
@@ -189,8 +194,7 @@
         padding: 8px 25px;
         font-weight: bold
      }
-     .christinaco40p743dw4 .btn-primary:hover,
-     .christinaco40p743dw4 .btn-primary:active{
+    .christinaco40p743dw4 .btn-primary:not(:disabled):not(.disabled):active{
         border: #EF490D;
         background-color: #EF490D
      }
